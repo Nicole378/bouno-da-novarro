@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: lightsteelblue;
+}
+header {
+    background-color: white;
+}
+p{
+    text-align: left;
+    color: lightsteelblue;
+}
+h1{
+    text-align: center;
+    color: lightsteelblue;
+}
+h2{
+    text-align: center;
+    color: lightsteelblue;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    background-color:lightsteelblue;
+    border-radius:15px;
+    padding: 5px;
+    margin: 10px;
+}
+main img{
+    width: 300px;
+    height: 200px;
+}
+footer{
+    background-color: white;
+}
+main p{
+    text-align: left;
+    color: lightsteelblue;
+    background-color:azure;
+    border-radius:15px;
+    padding: 5px;
+    margin: 10px;
+}
+body{
+    text-align: center;
+}
